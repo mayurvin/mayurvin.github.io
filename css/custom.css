@@ -59,7 +59,7 @@ body.nav-sm ul.nav.child_menu {
   padding: 10px;
   width: 210px;
   z-index: 4000;
-  background: #3E5367;
+  background: black;
   display: none;
 }
 body.nav-sm ul.nav.child_menu li {
@@ -510,7 +510,7 @@ a:hover, a:focus {
   padding-left: 36px
 }
 body.nav-md ul.nav.child_menu li:before {
-  background: #425668;
+  background: black;
   bottom: auto;
   content: "";
   height: 8px;
@@ -554,7 +554,7 @@ li.current-page {
   background: -webkit-linear-gradient(#334556, #2C4257), #2A3F54;
   background: -moz-linear-gradient(#334556, #2C4257), #2A3F54;
   background: -o-linear-gradient(#334556, #2C4257), #2A3F54;
-  background: linear-gradient(#334556, #2C4257), #2A3F54;
+  background: black;
   -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0 1px 0, inset rgba(255, 255, 255, 0.16) 0 1px 0;
   -moz-box-shadow: rgba(0, 0, 0, 0.25) 0 1px 0, inset rgba(255, 255, 255, 0.16) 0 1px 0;
   box-shadow: rgba(0, 0, 0, 0.25) 0 1px 0, inset rgba(255, 255, 255, 0.16) 0 1px 0;
@@ -792,7 +792,7 @@ h2 {
   border-bottom: 1px solid #efefef;
 }
 .accordion .panel-heading {
-  background: #F2F5F7;
+  background: black;
   padding: 13px;
   width: 100%;
   display: block;
@@ -2672,7 +2672,7 @@ a.btn-success, a.btn-primary, a.btn-warning, a.btn-danger {
   cursor: pointer;
 }
 .daterangepicker .ranges li.active, .daterangepicker .ranges li:hover {
-  background: #536A7F;
+  background: black;
   border: 1px solid #536A7F;
   color: #fff;
 }
